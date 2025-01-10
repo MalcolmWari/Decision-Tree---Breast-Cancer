@@ -1,4 +1,3 @@
-README.md
 Breast Cancer Prediction Using Decision Tree
 This project helps predict whether a tumor is Benign (non-cancerous) or Malignant (cancerous) using a Decision Tree model. It's designed for students who may not have any coding experience.
 
